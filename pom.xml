@@ -8,17 +8,10 @@
 	<description>erueka</description>
 
 	<parent>
-		<groupId>org.cpm.zerowastelife</groupId>
+		<groupId>org.cpm.zwl</groupId>
 		<artifactId>spring-boot-root</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	
-	<dependencies>
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-eureka-server</artifactId>
-		</dependency>
-	</dependencies>
 	
 	<build>
 		<plugins>
