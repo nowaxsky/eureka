@@ -12,7 +12,7 @@
 		<artifactId>spring-boot-root</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	
+
 	<build>
 		<plugins>
 			<plugin>
